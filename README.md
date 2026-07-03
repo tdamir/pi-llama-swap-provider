@@ -15,7 +15,7 @@ It dynamically discovers available models from your local llama-swap instance at
 ## Prerequisites
 
 - [pi](https://github.com/earendil-works/pi) installed
-- [llama-swap](https://github.com/braely/llama-swap) running on your network
+- [llama-swap](https://github.com/mostlygeek/llama-swap) running on your network
 
 ## Installation
 
